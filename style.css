@@ -20,6 +20,7 @@ h1 {
       grid-column: span 3;
       text-align: center;
       color: #ec407a;
+      margin-top: -34px;
 }
 
 #wrapper {
