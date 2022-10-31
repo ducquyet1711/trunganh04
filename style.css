@@ -133,6 +133,7 @@ footer {
 @media (max-width: 992px) {
       #wrapper {
             grid-column: span 12;
+
       }
 
       #clock-box #clock {
