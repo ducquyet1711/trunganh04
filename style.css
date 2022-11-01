@@ -119,6 +119,7 @@ footer {
       position: relative;
       z-index: 1000;
       opacity: .4;
+      margin: 0 auto;
 }
 
 #mask {
