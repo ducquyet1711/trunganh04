@@ -1,3 +1,5 @@
+@import url('https://fonts.googleapis.com/css?family=Poppins:wght@500&display=swap&effect=shadow-multiple|neon');
+
 html, body {
       background-color: #f6f6f6;
       margin: 0;
@@ -23,8 +25,10 @@ h1 {
       font-weight: lighter;
       grid-column: span 3;
       text-align: center;
-      color: #ec407a;
+      /* color: #ec407a; */
       margin-top: -34px;
+      font-family: 'Poppins', sans-serif;
+      font-size: xx-large;
 }
 
 #wrapper {
