@@ -47,6 +47,42 @@ const app = {
       path:
         "music/ido.mp3",
     },
+    {
+      name: "5",
+      singer: "5",
+      path:
+        "music/Anh Đánh Rơi Người Yêu Này - Andiez ft. AMEE - OST #TTVKOBE.mp3",
+    },
+    {
+      name: "6",
+      singer: "6",
+      path:
+        "music/BIGDADDY x EMILY - Mượn Rượu Tỏ Tình (Official M-V).mp3",
+    },
+    {
+      name: "7",
+      singer: "7",
+      path:
+        "music/Ngay Dau Tien - Duc Phuc.mp3",
+    },
+    {
+      name: "8",
+      singer: "8",
+      path:
+        "music/thangdien.mp3",
+    },
+    {
+      name: "9",
+      singer: "9",
+      path:
+        "music/Yeu Em Rat Nhieu - Hoang Ton.mp3",
+    },
+    {
+      name: "10",
+      singer: "10",
+      path:
+        "music/ĐỨC PHÚC - HƠN CẢ YÊU - Video Lyrics.mp3",
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
@@ -149,7 +185,7 @@ const app = {
       }
       audio.play();
       _this.render();
-      _this.scrollToActiveSong();
+      // _this.scrollToActiveSong();
     };
 
     // Khi prev song
@@ -162,7 +198,7 @@ const app = {
       }
       audio.play();
       _this.render();
-      _this.scrollToActiveSong();
+      // _this.scrollToActiveSong();
     };
 
     // Xử lý bật / tắt random song
@@ -191,14 +227,14 @@ const app = {
       }
     };
   },
-  scrollToActiveSong: function () {
-    setTimeout(() => {
-      $(".song.active").scrollIntoView({
-        behavior: "smooth",
-        block: "nearest"
-      });
-    }, 300);
-  },
+  // scrollToActiveSong: function () {
+  //   setTimeout(() => {
+  //     $(".song.active").scrollIntoView({
+  //       behavior: "smooth",
+  //       block: "nearest"
+  //     });
+  //   }, 300);
+  // },
   loadCurrentSong: function () {
     // heading.textContent = this.currentSong.name;
     // cdThumb.style.backgroundImage = `url('${this.currentSong.image}')`;
