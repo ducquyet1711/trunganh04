@@ -1,5 +1,3 @@
-// Một số bài hát có thể bị lỗi do liên kết bị hỏng. Vui lòng thay thế liên kết khác để có thể phát
-// Some songs may be faulty due to broken links. Please replace another link so that it can be played
 
 const $ = document.querySelector.bind(document);
 const $$ = document.querySelectorAll.bind(document);
@@ -29,7 +27,7 @@ const app = {
       name: "Damn",
       singer: "Raftaar x kr$na",
       path:
-        "https://mp3.filmisongs.com/go.php?id=Damn%20Song%20Raftaar%20Ft%20KrSNa.mp3",
+        "music/daloyeuemnhieu.mp3",
       // image:
       //   "https://filmisongs.xyz/wp-content/uploads/2020/07/Damn-Song-Raftaar-KrNa.jpg"
     }
@@ -245,3 +243,6 @@ const app = {
 };
 
 app.start();
+
+
+

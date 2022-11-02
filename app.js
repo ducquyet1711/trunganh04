@@ -1,5 +1,4 @@
-const yourDate = new Date("2022-11-01T00:00:00"),
-music = ['anhnangcuaanh', 'noinaycoanh', 'ido', 'daloyeuemnhieu'];
+const yourDate = new Date("2022-11-01T00:00:00")
 
 document.addEventListener('DOMContentLoaded', function(){
       var rootTime = document.querySelector("time");
@@ -18,13 +17,13 @@ document.addEventListener('DOMContentLoaded', function(){
       var timer = setInterval(function(){olock()}, 1000);
       // document.querySelector("audio").setAttribute("src", `music/${music[Math.floor(Math.random()*music.length)]}.mp3`);
 
-      document.getElementsByTagName("body")[0].insertAdjacentHTML(
-            "beforeend",
-            "<div id='mask'></div>"
-      );
+      // document.getElementsByTagName("body")[0].insertAdjacentHTML(
+      //       "beforeend",
+      //       "<div id='mask'></div>"
+      // );
       
 }, false);
 
-console.log(yourDate)
+
 
 
