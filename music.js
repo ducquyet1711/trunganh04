@@ -51,19 +51,19 @@ const app = {
       name: "5",
       singer: "5",
       path:
-        "music/Anh Đánh Rơi Người Yêu Này - Andiez ft. AMEE - OST #TTVKOBE.mp3",
+        "music/anhdanhroinguoiyeunay.mp3",
     },
     {
       name: "6",
       singer: "6",
       path:
-        "music/BIGDADDY x EMILY - Mượn Rượu Tỏ Tình (Official M-V).mp3",
+        "music/muonruoutrochuyen.mp3",
     },
     {
       name: "7",
       singer: "7",
       path:
-        "music/Ngay Dau Tien - Duc Phuc.mp3",
+        "music/honcayeu.mp3",
     },
     {
       name: "8",
@@ -75,13 +75,13 @@ const app = {
       name: "9",
       singer: "9",
       path:
-        "music/Yeu Em Rat Nhieu - Hoang Ton.mp3",
+        "music/yeuemratnhieu.mp3",
     },
     {
       name: "10",
       singer: "10",
       path:
-        "music/ĐỨC PHÚC - HƠN CẢ YÊU - Video Lyrics.mp3",
+        "music/ngaydautien.mp3",
     },
   ],
   setConfig: function (key, value) {
