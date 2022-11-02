@@ -24,13 +24,29 @@ const app = {
   // config: JSON.parse(localStorage.getItem(PlAYER_STORAGE_KEY)) || {},
   songs: [
     {
-      name: "Damn",
-      singer: "Raftaar x kr$na",
+      name: "1",
+      singer: "1",
       path:
         "music/daloyeuemnhieu.mp3",
-      // image:
-      //   "https://filmisongs.xyz/wp-content/uploads/2020/07/Damn-Song-Raftaar-KrNa.jpg"
-    }
+    },
+    {
+      name: "2",
+      singer: "2",
+      path:
+        "music/noinaycoanh.mp3",
+    },
+    {
+      name: "3",
+      singer: "3",
+      path:
+        "music/anhnangcuaanh.mp3",
+    },
+    {
+      name: "4",
+      singer: "4",
+      path:
+        "music/ido.mp3",
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
