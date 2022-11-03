@@ -89,6 +89,42 @@ const app = {
       path:
         "https://data.chiasenhac.com/down2/2179/4/2178586-53a3f17d/128/Yeu%20Duoc%20Khong%20-%20Duc%20Phuc.mp3",
     },
+    {
+      name: "12",
+      singer: "12",
+      path:
+        "https://ia801807.us.archive.org/15/items/ctcht/Chung%20Ta%20Cua%20Hien%20Tai%20-%20Son%20Tung%20M-TP.mp3",
+    },
+    {
+      name: "13",
+      singer: "13",
+      path:
+        "https://data3.chiasenhac.com/downloads/2119/4/2118238-278309af/128/Em%20Be%20-%20AMee_%20Karik.mp3",
+    },
+    {
+      name: "14",
+      singer: "14",
+      path:
+        "https://data3.chiasenhac.com/downloads/2090/4/2089159-8fcd942c/128/You%20Are%20My%20Crush%20-%20Quan%20A_P.mp3",
+    },
+    {
+      name: "15",
+      singer: "15",
+      path:
+        "https://data.chiasenhac.com/down2/2221/4/2220235-4b2a4af4/128/Thich%20Em%20Hoi%20Nhieu%20-%20Wren%20Evans.mp3",
+    },
+    {
+      name: "16",
+      singer: "16",
+      path:
+        "https://data.chiasenhac.com/down2/2212/4/2211684-5b46ea73/128/Anh%20Se%20Don%20Em%20voi%20Trang_%20-%20Nguyen_.mp3",
+    },
+    {
+      name: "17",
+      singer: "17",
+      path:
+        "https://data.chiasenhac.com/down2/2216/4/2215413-def9e962/128/I%20Love%20You%203000%20-%20Stephanie%20Poetri.mp3",
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
