@@ -125,6 +125,18 @@ const app = {
       path:
         "https://data.chiasenhac.com/down2/2216/4/2215413-def9e962/128/I%20Love%20You%203000%20-%20Stephanie%20Poetri.mp3",
     },
+    {
+      name: "18",
+      singer: "18",
+      path:
+        "https://data.chiasenhac.com/down2/2261/4/2260423-d12b3940/128/Bat%20Coc%20Con%20Tim%20-%20Lou%20Hoang.mp3",
+    },
+    {
+      name: "19",
+      singer: "19",
+      path:
+        "https://data.chiasenhac.com/down2/2276/4/2275144-a6d75b68/128/Em%20La%20-%20MONO_%20Onionn.mp3",
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
