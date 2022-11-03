@@ -83,6 +83,12 @@ const app = {
       path:
         "music/ngaydautien.mp3",
     },
+    {
+      name: "11",
+      singer: "11",
+      path:
+        "https://data.chiasenhac.com/down2/2179/4/2178586-53a3f17d/128/Yeu%20Duoc%20Khong%20-%20Duc%20Phuc.mp3",
+    },
   ],
   setConfig: function (key, value) {
     this.config[key] = value;
