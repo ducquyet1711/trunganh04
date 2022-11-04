@@ -39,7 +39,7 @@ const app = {
       name: "3",
       singer: "3",
       path:
-        "music/anhnangcuaanh.mp3",
+        "https://data3.chiasenhac.com/downloads/1751/5/1750325-63589c26/128/Anh%20Nang%20Cua%20Anh%20-%20Duc%20Phuc.mp3",
     },
     {
       name: "4",
@@ -63,7 +63,7 @@ const app = {
       name: "7",
       singer: "7",
       path:
-        "music/honcayeu.mp3",
+        "https://data.chiasenhac.com/down2/2277/5/2276758-85a6d3ff/128/Hon%20Ca%20Yeu%20-%20Duc%20Phuc.mp3",
     },
     {
       name: "8",
@@ -81,7 +81,7 @@ const app = {
       name: "10",
       singer: "10",
       path:
-        "music/ngaydautien.mp3",
+        "https://data.chiasenhac.com/down2/2224/5/2223570-77fd7172/128/Ngay%20Dau%20Tien%20-%20Duc%20Phuc.mp3",
     },
     {
       name: "11",
