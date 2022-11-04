@@ -87,7 +87,7 @@ const app = {
       name: "11",
       singer: "11",
       path:
-        "https://data.chiasenhac.com/down2/2179/4/2178586-53a3f17d/128/Yeu%20Duoc%20Khong%20-%20Duc%20Phuc.mp3",
+        "https://data.chiasenhac.com/down2/2179/5/2178586-53a3f17d/128/Yeu%20Duoc%20Khong%20-%20Duc%20Phuc.mp3",
     },
     {
       name: "12",
@@ -99,43 +99,43 @@ const app = {
       name: "13",
       singer: "13",
       path:
-        "https://data3.chiasenhac.com/downloads/2119/4/2118238-278309af/128/Em%20Be%20-%20AMee_%20Karik.mp3",
+        "https://data3.chiasenhac.com/downloads/2119/5/2118238-278309af/128/Em%20Be%20-%20AMee_%20Karik.mp3",
     },
     {
       name: "14",
       singer: "14",
       path:
-        "https://data3.chiasenhac.com/downloads/2090/4/2089159-8fcd942c/128/You%20Are%20My%20Crush%20-%20Quan%20A_P.mp3",
+        "https://data3.chiasenhac.com/downloads/2090/5/2089159-8fcd942c/128/You%20Are%20My%20Crush%20-%20Quan%20A_P.mp3",
     },
     {
       name: "15",
       singer: "15",
       path:
-        "https://data.chiasenhac.com/down2/2221/4/2220235-4b2a4af4/128/Thich%20Em%20Hoi%20Nhieu%20-%20Wren%20Evans.mp3",
+        "https://data.chiasenhac.com/down2/2221/5/2220235-4b2a4af4/128/Thich%20Em%20Hoi%20Nhieu%20-%20Wren%20Evans.mp3",
     },
     {
       name: "16",
       singer: "16",
       path:
-        "https://data.chiasenhac.com/down2/2212/4/2211684-5b46ea73/128/Anh%20Se%20Don%20Em%20voi%20Trang_%20-%20Nguyen_.mp3",
+        "https://data.chiasenhac.com/down2/2212/5/2211684-5b46ea73/128/Anh%20Se%20Don%20Em%20voi%20Trang_%20-%20Nguyen_.mp3",
     },
     {
       name: "17",
       singer: "17",
       path:
-        "https://data.chiasenhac.com/down2/2216/4/2215413-def9e962/128/I%20Love%20You%203000%20-%20Stephanie%20Poetri.mp3",
+        "https://data.chiasenhac.com/down2/2216/5/2215413-def9e962/128/I%20Love%20You%203000%20-%20Stephanie%20Poetri.mp3",
     },
     {
       name: "18",
       singer: "18",
       path:
-        "https://data.chiasenhac.com/down2/2261/4/2260423-d12b3940/128/Bat%20Coc%20Con%20Tim%20-%20Lou%20Hoang.mp3",
+        "https://data.chiasenhac.com/down2/2261/5/2260423-d12b3940/128/Bat%20Coc%20Con%20Tim%20-%20Lou%20Hoang.mp3",
     },
     {
       name: "19",
       singer: "19",
       path:
-        "https://data.chiasenhac.com/down2/2276/4/2275144-a6d75b68/128/Em%20La%20-%20MONO_%20Onionn.mp3",
+        "https://data.chiasenhac.com/down2/2276/5/2275144-a6d75b68/128/Em%20La%20-%20MONO_%20Onionn.mp3",
     },
   ],
   setConfig: function (key, value) {
